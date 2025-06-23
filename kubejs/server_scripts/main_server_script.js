@@ -44,7 +44,6 @@ ServerEvents.tags('item', event => {
 	registerTFCItemTags(event)
 	registerTFCTextileItemTags(event)
 	registerTFGItemTags(event)
-  registerTFCLunchboxItemTags(event)
 	registerVintageImprovementsItemTags(event)
 })
 
