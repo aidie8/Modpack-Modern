@@ -519,7 +519,7 @@
             ]
         },
         {
-            "pakku_id": "NW3iRFsMBW7ecO8J",
+            "pakku_id": "TRLGFfgmWd0ze7GV",
             "type": "MOD",
             "slug": {
                 "curseforge": "applied-energistics-2-wireless-terminals"
@@ -1291,42 +1291,6 @@
                     "required_dependencies": [],
                     "size": 3832269,
                     "date_published": "2024-02-28T20:35:19.910Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "kzkvV4wmxNkW5eCx",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "cc-tweaked"
-            },
-            "name": {
-                "curseforge": "CC: Tweaked"
-            },
-            "id": {
-                "curseforge": "282001"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "cc-tweaked-1.20.1-forge-1.113.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5714/507/cc-tweaked-1.20.1-forge-1.113.1.jar",
-                    "id": "5714507",
-                    "parent_id": "282001",
-                    "hashes": {
-                        "sha1": "ca74a2ad65f149e7465e849b479abec863a82bf1",
-                        "md5": "92b7b114f5ee6067b4f0eff1636817f2"
-                    },
-                    "required_dependencies": [],
-                    "size": 3063695,
-                    "date_published": "2024-09-11T19:12:12.627Z"
                 }
             ]
         },
@@ -2683,7 +2647,7 @@
         {
             "pakku_id": "SG15bUHPcW2KqNGd",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "detected-setblock-be-gone"
             },
@@ -5889,46 +5853,6 @@
             ]
         },
         {
-            "pakku_id": "XfHfMh1hH7WjP9wJ",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "more-red-x-cc-tweaked-compat"
-            },
-            "name": {
-                "curseforge": "More Red x CC:Tweaked Compat"
-            },
-            "id": {
-                "curseforge": "867286"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "MoreRed-CCT-Compat-1.20.1-1.0.0.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "neoforge",
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4650/653/MoreRed-CCT-Compat-1.20.1-1.0.0.jar",
-                    "id": "4650653",
-                    "parent_id": "867286",
-                    "hashes": {
-                        "sha1": "ed57300c9b6e335af2a6a386fc2d373b4b5daaf4",
-                        "md5": "6e31e60032216fe7bb015026c1c0be5a"
-                    },
-                    "required_dependencies": [
-                        "282001",
-                        "387638"
-                    ],
-                    "size": 9388,
-                    "date_published": "2023-07-18T02:23:23.550Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "sQT6Pqp2DV9dQGNC",
             "type": "MOD",
             "side": "CLIENT",
@@ -8022,8 +7946,8 @@
                     "id": "6675072",
                     "parent_id": "1283445",
                     "hashes": {
-                        "sha1": "de4051c4345290b9d99f2d26090ad466f112b3ec",
-                        "md5": "ada6f65d0fc9785a34b9deb76c53e882"
+                        "sha1": "334167b4cc5ec81a917d168b6ec8a876f315298e",
+                        "md5": "3dc59cd3d685fe4f5d097ca4e66746f4"
                     },
                     "required_dependencies": [
                         "302973"
@@ -8682,6 +8606,44 @@
                     "required_dependencies": [],
                     "size": 1630001,
                     "date_published": "2025-05-08T17:38:34.730Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ExgdsZjG51N3WrBe",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "vintage-improvenents-ssw-edition"
+            },
+            "name": {
+                "curseforge": "Vintage Improvenents - SSW Edition"
+            },
+            "id": {
+                "curseforge": "1255448"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "vintageimprovements-1.20.1-0.3.4.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6635/459/vintageimprovements-1.20.1-0.3.4.0.jar",
+                    "id": "6635459",
+                    "parent_id": "1255448",
+                    "hashes": {
+                        "sha1": "73480bc46465b94aa75506724cfb637be2317b00",
+                        "md5": "d0945d884e449ae4d213c596bef2ce67"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 1381920,
+                    "date_published": "2025-06-10T04:30:34.230Z"
                 }
             ]
         },
