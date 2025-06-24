@@ -8649,44 +8649,6 @@
             ]
         },
         {
-            "pakku_id": "mxWVAqlbiiejXL6S",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "visual-workbench"
-            },
-            "name": {
-                "curseforge": "Visual Workbench"
-            },
-            "id": {
-                "curseforge": "500273"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "VisualWorkbench-v8.0.0-1.20.1-Forge.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4612/695/VisualWorkbench-v8.0.0-1.20.1-Forge.jar",
-                    "id": "4612695",
-                    "parent_id": "500273",
-                    "hashes": {
-                        "sha1": "7ebf579edcf2440eadf1ed6c8c895e1bc2d77bf1",
-                        "md5": "d741bc2d4d3a385116d094b874474a6b"
-                    },
-                    "required_dependencies": [
-                        "495476"
-                    ],
-                    "size": 82055,
-                    "date_published": "2023-06-27T21:00:10.803Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "SZ5c7Jc5GOwlNtbX",
             "type": "MOD",
             "side": "BOTH",
