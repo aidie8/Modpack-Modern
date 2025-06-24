@@ -2315,7 +2315,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Steam_Rails-1.6.10-alpha+forge-mc1.20.1.jar",
+                    "file_name": "Steam_Rails-1.6.11-alpha+forge-mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2324,7 +2324,7 @@
                         "forge"
                     ],
                     "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/6685/435/Steam_Rails-1.6.10-alpha+forge-mc1.20.1.jar",
+                    "url": "https://edge.forgecdn.net/files/6685/435/Steam_Rails-1.6.11-alpha+forge-mc1.20.1.jar",
                     "id": "6685435",
                     "parent_id": "688231",
                     "hashes": {
@@ -5810,6 +5810,46 @@
                     "required_dependencies": [],
                     "size": 756905,
                     "date_published": "2023-08-09T22:13:16.500Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "xETid4ZChitid73e",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "more-red-x-cc-tweaked-compat"
+            },
+            "name": {
+                "curseforge": "More Red x CC:Tweaked Compat"
+            },
+            "id": {
+                "curseforge": "867286"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MoreRed-CCT-Compat-1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4650/653/MoreRed-CCT-Compat-1.20.1-1.0.0.jar",
+                    "id": "4650653",
+                    "parent_id": "867286",
+                    "hashes": {
+                        "sha1": "ed57300c9b6e335af2a6a386fc2d373b4b5daaf4",
+                        "md5": "6e31e60032216fe7bb015026c1c0be5a"
+                    },
+                    "required_dependencies": [
+                        "282001",
+                        "387638"
+                    ],
+                    "size": 9388,
+                    "date_published": "2023-07-18T02:23:23.550Z"
                 }
             ]
         },
